@@ -1,0 +1,14 @@
+{
+  "thing": {
+    "name": "",
+    "category": "Other",
+    "tags": [
+    ],
+    "is_wip": false,
+    "license": "bsd-2-clause",
+  },
+  "files": {
+  },
+  "images": {
+  }
+}
